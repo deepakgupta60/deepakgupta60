@@ -1,4 +1,27 @@
-## Hi there 👋
+##  Hi there 👋
+
+
+Welcome to my page! I'm Deepak, Healthcare Digital Marketing Specialist from  Jalandhar, INDIA.
+
+About Me
+
+
+🔭 I’m currently working on Digital Strategy.
+🌱 I’m currently learning Scaling from zero to hero.
+💬 I can help you land your business on google earth. Check out my portfolio below.
+⚡ Fun fact: I got 50% ROAS in Healthcare Industry and you can find me in LinkedIn.
+
+
+My Tech Stack
+
+Digital Marketing
+
+Web Development
+
+UI/UX Designing
+
+
+
 
 <!--
 **deepakgupta60/deepakgupta60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
