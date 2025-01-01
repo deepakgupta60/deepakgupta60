@@ -15,11 +15,21 @@ About Me
 My Tech Stack
 
 Digital Marketing
+Digital Strategy
+PPC (Google & Meta Ads)
+SEO
+SEM
 
 Web Development
+WordPress
+HTML
+CSS
+JavaScript
+React
 
 UI/UX Designing
-
+Figma
+Photoshop
 
 
 
